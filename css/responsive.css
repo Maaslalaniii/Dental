@@ -1,0 +1,50 @@
+/* Nexus 5 */
+
+@media (max-width:360px) {
+	.mobile-hide {
+		display: none!important;
+	}
+	/* Intro Section */
+	.intro-section {
+		overflow-y: hidden;
+	}
+	.img-wrapper {
+		line-height: 570px;
+		transform: rotate(90deg);
+	}
+	.intro-container {
+		padding: 0;
+		top: 30%;
+	}
+	.intro-slogan {
+		text-align: center;
+		font-size: 40px;
+	}
+	.intro-text {
+		display: none;
+	}
+	.cta-wrapper {
+		text-align: center;
+	}
+	/* Services Section */
+	.service-container {
+		margin-top: -80px;
+		overflow: hidden;
+	}
+	/* About Section */
+	.about-section {
+		overflow: hidden;
+		text-align: center;
+		padding-top: 40px;
+	}
+	#google-map {
+		display: none;
+	}
+	/* Contact Section */
+	.contact-section {
+		padding-top: 100px;
+	}
+	#send-button {
+		margin-top: 50px;
+	}
+}
