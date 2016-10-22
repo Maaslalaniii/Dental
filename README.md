@@ -1,2 +1,2 @@
 # Dental
-A Website for a small dental clinic
+A website for a small dental clinic
